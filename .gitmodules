@@ -1,0 +1,3 @@
+[submodule "python-host"]
+	path = python-host
+	url = https://github.com/OpenWonderLabs/python-host.git
